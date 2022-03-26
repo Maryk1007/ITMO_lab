@@ -1,0 +1,4 @@
+.company_mail_first{
+  display: flex;
+  flex-direction: row;
+}

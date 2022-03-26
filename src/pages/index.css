@@ -3,6 +3,12 @@
 
 @import url(../blocks/companies/companies.css);
 @import url(../blocks/companies/__container/companies__container.css);
-@import url(../blocks/title/title.css);
-@import url(../blocks/subtitle/subtitle.css);
-@import url(../blocks/companies/__groups-logo/companies__groups-logo.css);
+@import url(../blocks/companies/__title/companies__title.css);
+@import url(../blocks/companies/__subtitle/companies__subtitle.css);
+@import url(../blocks/companies/__group/companies__group.css);
+@import url(../blocks/company/_sberbank/company_sberbank-grid.css);
+@import url(../blocks/company/_mail/company_mail.css);
+@import url(../blocks/company/_mail/company_mail_first.css);
+@import url(../blocks/company/_mail/company_mail_letter.css);
+@import url(../blocks/company/_mail/company_mail_letter-dot.css);
+@import url(../blocks/company/_mail/company_mail_letter-i.css);
