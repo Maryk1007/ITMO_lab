@@ -1,5 +1,12 @@
 .companies__subtitle {
   max-width: 920px;
+  margin-top: 0px;
   margin-bottom: 100px;
   color: #FFFFFF;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 167%;
+  letter-spacing: 0.1px;
+  white-space: pre-line;
 }
