@@ -1,9 +1,14 @@
 @import url(../vendor/normalize.css);
 @import url(../vendor/fonts/fonts.css);
-
+@import url(../blocks/projects/projects.css);
+@import url(../blocks/container/container.css);
+@import url(../blocks/container/_type/container_type_project.css);
+@import url(../blocks/title/title.css);
+@import url(../blocks/title/_type/title_type_project.css);
+@import url(../blocks/input/input_project.css);
 @import url(../blocks/companies/companies.css);
-@import url(../blocks/companies/__container/companies__container.css);
-@import url(../blocks/companies/__title/companies__title.css);
+@import url(../blocks/container/_type/container_type_companies.css);
+@import url(../blocks/title/_type/title_type_companies.css);
 @import url(../blocks/companies/__subtitle/companies__subtitle.css);
 @import url(../blocks/companies/__group/companies__group.css);
 

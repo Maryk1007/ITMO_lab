@@ -1,6 +1,4 @@
-.companies__container {
-  border: 1px solid red;
-  margin: 0 auto 80px;
+.container{
   display: flex;
   flex-direction: column;
   align-items: center;
